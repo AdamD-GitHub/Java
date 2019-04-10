@@ -1,6 +1,6 @@
 /**
  * 
- * @author Adam Diel (S0854801)
+ * @author Adam D
  * Date:   11/16/2018
  * 
  * Class Name: Ship object
