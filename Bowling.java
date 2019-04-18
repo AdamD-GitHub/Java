@@ -1,5 +1,5 @@
 /**
- * Author:  Adam Diel (S0854801)
+ * Author:  Adam D
  * Date:    10/06/2018
  * 
  * Class Name: Bowling Score Tracker
