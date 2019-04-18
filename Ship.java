@@ -42,20 +42,20 @@ public class Ship
 	}
 
 	
-	/**
-	 * isSink method returns if the ship has been sunk.
-	 * @return		boolean value if ship is sunk
-	 */
+    /**
+     * isSink method returns if the ship has been sunk.
+     * @return		boolean value if ship is sunk
+     */
     public boolean isSunk() 
     {
         return sunk;
     }
 
     
-	/**
-	 * getType method returns the type of ship.
-	 * @return		String name of ship
-	 */
+    /**
+     * getType method returns the type of ship.
+     * @return		String name of ship
+     */
     public String getType() 
     {
         return type;
