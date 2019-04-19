@@ -3,7 +3,7 @@
  * @author Adam D
  * Date:    11/16/2018
  * 
- * Class Name: GameBoard
+ * Class Name: ActionGame
  * Class Purpose:
  *       This is the class which controls game functionality and 
  *       game play. It instantiates the game board, which places the 
