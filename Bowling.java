@@ -2,7 +2,7 @@
  * Author:  Adam D
  * Date:    10/06/2018
  * 
- * Class Name: Bowling Score Tracker
+ * Class Name: Bowling
  * Class Purpose:
  *       This class inputs bowling scores for 10 frames then displays the each roll per 
  *       frame, each frames total and a running total per frame.  
